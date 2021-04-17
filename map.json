@@ -200,11 +200,11 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"C:\/Users\/Bossy\/Downloads\/dab2byf-afb89e9f-cfda-44e2-8caa-4566fc598e92.png",
+         "image":"..\/TilseSet\/tile_set_Pokemon.png",
          "imageheight":20832,
          "imagewidth":256,
          "margin":0,
-         "name":"dab2byf-afb89e9f-cfda-44e2-8caa-4566fc598e92",
+         "name":"tile_set_pokemon",
          "spacing":0,
          "tilecount":5208,
          "tileheight":32,
